@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Gestión de Colegio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1 class="app-title">Gestión de Colegio</h1>
+    <nav class="tabs" role="tablist" aria-label="Secciones">
+      <button class="tab is-active" role="tab" aria-selected="true" data-tab-target="#sec-colegios">Colegios</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab-target="#sec-cursos">Cursos</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab-target="#sec-salones">Salones</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab-target="#sec-distribucion">Distribución</button>
+    </nav>
+  </header>
+
+  <main class="container">
+    <!-- COLEGIOS -->
+    <section id="sec-colegios" class="panel is-active" aria-labelledby="Colegios">
+      <h2 class="panel-title">Colegios</h2>
+
+      <form data-form="colegio" class="form">
+        <fieldset class="form-grid">
+          <label class="form-field">
+            <span>Nombre</span>
+            <input type="text" name="name" required />
+          </label>
+          <label class="form-field">
+            <span>Dirección</span>
+            <input type="text" name="address" required />
+          </label>
+          <label class="form-field">
+            <span>Teléfono</span>
+            <input type="text" name="phone" required />
+          </label>
+          <label class="form-field">
+            <span>Usuario</span>
+            <input type="text" name="username" autocomplete="username" required />
+          </label>
+          <label class="form-field">
+            <span>Clave</span>
+            <input type="password" name="password" autocomplete="new-password" minlength="6" required />
+          </label>
+        </fieldset>
+        <div class="form-actions">
+          <button type="submit" class="btn">Guardar colegio</button>
+          <button type="reset" class="btn btn--ghost">Limpiar</button>
+        </div>
+      </form>
+
+      <div class="table-wrapper">
+        <table class="table" data-table="colegios">
+          <thead>
+            <tr>
+              <th>Nombre</th>
+              <th>Dirección</th>
+              <th>Teléfono</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <div class="empty" data-empty="colegios" hidden>No hay colegios registrados.</div>
+      </div>
+    </section>
+
+    <!-- CURSOS -->
+    <section id="sec-cursos" class="panel" aria-labelledby="Cursos">
+      <h2 class="panel-title">Cursos</h2>
+
+      <form data-form="curso" class="form">
+        <fieldset class="form-grid">
+          <label class="form-field">
+            <span>Nombre</span>
+            <input type="text" name="name" required />
+          </label>
+          <label class="form-field">
+            <span>Descripción</span>
+            <input type="text" name="description" required />
+          </label>
+          <label class="form-field">
+            <span>Colegio</span>
+            <select name="colegioId" data-select="colegio" required>
+              <option value="">Seleccione un colegio</option>
+            </select>
+          </label>
+        </fieldset>
+        <div class="form-actions">
+          <button type="submit" class="btn">Guardar curso</button>
+          <button type="reset" class="btn btn--ghost">Limpiar</button>
+        </div>
+      </form>
+
+      <div class="table-wrapper">
+        <table class="table" data-table="cursos">
+          <thead>
+            <tr>
+              <th>Nombre</th>
+              <th>Descripción</th>
+              <th>Colegio</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <div class="empty" data-empty="cursos" hidden>No hay cursos registrados.</div>
+      </div>
+    </section>
+
+    <!-- SALONES -->
+    <section id="sec-salones" class="panel" aria-labelledby="Salones">
+      <h2 class="panel-title">Salones</h2>
+
+      <form data-form="salon" class="form">
+        <fieldset class="form-grid">
+          <label class="form-field">
+            <span>Nombre</span>
+            <input type="text" name="name" required />
+          </label>
+          <label class="form-field">
+            <span>Curso</span>
+            <select name="cursoId" data-select="curso" required>
+              <option value="">Seleccione un curso</option>
+            </select>
+          </label>
+        </fieldset>
+        <div class="form-actions">
+          <button type="submit" class="btn">Guardar salón</button>
+          <button type="reset" class="btn btn--ghost">Limpiar</button>
+        </div>
+      </form>
+
+      <div class="table-wrapper">
+        <table class="table" data-table="salones">
+          <thead>
+            <tr>
+              <th>Nombre</th>
+              <th>Curso</th>
+              <th>Cupo máx.</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <div class="empty" data-empty="salones" hidden>No hay salones registrados.</div>
+      </div>
+    </section>
+
+    <!-- DISTRIBUCIÓN -->
+    <section id="sec-distribucion" class="panel" aria-labelledby="Distribución">
+      <h2 class="panel-title">Distribución de estudiantes</h2>
+
+      <form data-form="distribucion" class="form">
+        <fieldset class="form-grid">
+          <label class="form-field">
+            <span>Colegio</span>
+            <select name="colegioId" data-select="colegio" required>
+              <option value="">Seleccione un colegio</option>
+            </select>
+          </label>
+          <label class="form-field">
+            <span>Cantidad de estudiantes</span>
+            <input type="number" name="cantidad" min="1" step="1" required />
+          </label>
+        </fieldset>
+        <div class="form-actions">
+          <button type="submit" class="btn">Distribuir</button>
+          <button type="reset" class="btn btn--ghost">Limpiar</button>
+        </div>
+      </form>
+
+      <div class="table-wrapper">
+        <table class="table" data-table="distribucion" hidden>
+          <thead>
+            <tr>
+              <th>Curso</th>
+              <th>Salón</th>
+              <th>Cantidad asignada</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <div class="empty" data-empty="distribucion" hidden>No hay resultados para mostrar.</div>
+      </div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <div id="backdrop" class="backdrop" hidden></div>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
