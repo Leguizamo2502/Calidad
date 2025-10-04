@@ -1,0 +1,135 @@
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\bin\Debug\net9.0\Entity.deps.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\bin\Debug\net9.0\Entity.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\bin\Debug\net9.0\Entity.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\bin\Debug\net9.0\Entity.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\Entity.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\refint\Entity.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\Entity.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\Entity.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Entity\obj\Debug\net9.0\ref\Entity.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.deps.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.runtimeconfig.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\refint\Entity.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.genruntimeconfig.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Entity\obj\Debug\net9.0\ref\Entity.dll
+C:\AMD\Juego\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.deps.json
+C:\AMD\Juego\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.runtimeconfig.json
+C:\AMD\Juego\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.dll
+C:\AMD\Juego\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.pdb
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.dll
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\refint\Entity.dll
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.pdb
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.genruntimeconfig.cache
+C:\AMD\Juego\CardCombatBackend\Entity\obj\Debug\net9.0\ref\Entity.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.deps.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.runtimeconfig.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\refint\Entity.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.genruntimeconfig.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Entity\obj\Debug\net9.0\ref\Entity.dll
+E:\pc\escritorio\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.deps.json
+E:\pc\escritorio\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.runtimeconfig.json
+E:\pc\escritorio\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.dll
+E:\pc\escritorio\CardCombatBackend\Entity\bin\Debug\net9.0\Entity.pdb
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.dll
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\refint\Entity.dll
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.pdb
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\Entity.genruntimeconfig.cache
+E:\pc\escritorio\CardCombatBackend\Entity\obj\Debug\net9.0\ref\Entity.dll
+C:\proyectos cSharp\colegio\Entity\bin\Debug\net9.0\Entity.deps.json
+C:\proyectos cSharp\colegio\Entity\bin\Debug\net9.0\Entity.runtimeconfig.json
+C:\proyectos cSharp\colegio\Entity\bin\Debug\net9.0\Entity.dll
+C:\proyectos cSharp\colegio\Entity\bin\Debug\net9.0\Entity.pdb
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\Entity.dll
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\refint\Entity.dll
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\Entity.pdb
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\Entity.genruntimeconfig.cache
+C:\proyectos cSharp\colegio\Entity\obj\Debug\net9.0\ref\Entity.dll
+C:\Users\braya\Downloads\colegio\colegio\Entity\bin\Debug\net9.0\Entity.deps.json
+C:\Users\braya\Downloads\colegio\colegio\Entity\bin\Debug\net9.0\Entity.runtimeconfig.json
+C:\Users\braya\Downloads\colegio\colegio\Entity\bin\Debug\net9.0\Entity.dll
+C:\Users\braya\Downloads\colegio\colegio\Entity\bin\Debug\net9.0\Entity.pdb
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\Entity.dll
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\refint\Entity.dll
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\Entity.pdb
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\Entity.genruntimeconfig.cache
+C:\Users\braya\Downloads\colegio\colegio\Entity\obj\Debug\net9.0\ref\Entity.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\bin\Debug\net9.0\Entity.deps.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\bin\Debug\net9.0\Entity.runtimeconfig.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\bin\Debug\net9.0\Entity.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\bin\Debug\net9.0\Entity.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\Entity.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\refint\Entity.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\Entity.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\Entity.genruntimeconfig.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Entity\obj\Debug\net9.0\ref\Entity.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\bin\Debug\net9.0\Entity.deps.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\bin\Debug\net9.0\Entity.runtimeconfig.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\bin\Debug\net9.0\Entity.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\bin\Debug\net9.0\Entity.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\Entity.csproj.AssemblyReference.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\Entity.AssemblyInfoInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\Entity.AssemblyInfo.cs
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\Entity.sourcelink.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\Entity.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\refint\Entity.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\Entity.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\Entity.genruntimeconfig.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Entity\obj\Debug\net9.0\ref\Entity.dll

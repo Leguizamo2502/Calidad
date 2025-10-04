@@ -1,0 +1,1311 @@
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\appsettings.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Web.exe
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Web.deps.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Web.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Web.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Business.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Data.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Entity.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Utilities.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Business.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Data.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Entity.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\bin\Debug\net9.0\Utilities.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.sourcelink.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\refint\Web.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\appsettings.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Web.exe
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Web.deps.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Web.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Web.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Humanizer.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Npgsql.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Business.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Data.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Entity.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Utilities.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Business.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Data.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Entity.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\bin\Debug\net9.0\Utilities.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.sourcelink.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\refint\Web.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Web\obj\Debug\net9.0\ref\Web.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\appsettings.json
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Web.exe
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Web.deps.json
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Web.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Web.pdb
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\AutoMapper.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Humanizer.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Npgsql.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Business.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Data.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Entity.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Utilities.dll
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Business.pdb
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Data.pdb
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Entity.pdb
+C:\AMD\Juego\CardCombatBackend\Web\bin\Debug\net9.0\Utilities.pdb
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.sourcelink.json
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.dll
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\refint\Web.dll
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.pdb
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\AMD\Juego\CardCombatBackend\Web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\appsettings.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Web.exe
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Web.deps.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Web.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Web.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Business.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Data.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Entity.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Utilities.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Business.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Data.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Entity.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\bin\Debug\net9.0\Utilities.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.sourcelink.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\refint\Web.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Web\obj\Debug\net9.0\ref\Web.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\appsettings.Development.json
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\appsettings.json
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Web.exe
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Web.deps.json
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Web.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Web.pdb
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\AutoMapper.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Humanizer.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Npgsql.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\System.CodeDom.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Business.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Data.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Entity.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Utilities.dll
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Business.pdb
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Data.pdb
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Entity.pdb
+E:\pc\escritorio\CardCombatBackend\Web\bin\Debug\net9.0\Utilities.pdb
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cs
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.sourcelink.json
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.development.json
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.dll
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\refint\Web.dll
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.pdb
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+E:\pc\escritorio\CardCombatBackend\Web\obj\Debug\net9.0\ref\Web.dll
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.sourcelink.json
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\appsettings.json
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Web.exe
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Web.deps.json
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Web.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Web.pdb
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\AutoMapper.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\FluentValidation.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Humanizer.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Npgsql.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Business.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Data.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Entity.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Utilities.dll
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Business.pdb
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Data.pdb
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Entity.pdb
+C:\proyectos cSharp\colegio\Web\bin\Debug\net9.0\Utilities.pdb
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.dll
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\refint\Web.dll
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.pdb
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\proyectos cSharp\colegio\Web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\appsettings.json
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Web.exe
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Web.deps.json
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Web.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Web.pdb
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Humanizer.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Npgsql.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Business.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Data.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Entity.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Utilities.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Business.pdb
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Data.pdb
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Entity.pdb
+C:\Users\braya\Downloads\colegio\colegio\Web\bin\Debug\net9.0\Utilities.pdb
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.sourcelink.json
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\refint\Web.dll
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.pdb
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\Users\braya\Downloads\colegio\colegio\Web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\appsettings.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Web.exe
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Web.deps.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Web.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Web.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Humanizer.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Npgsql.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Business.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Data.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Entity.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Utilities.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Business.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Data.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Entity.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\bin\Debug\net9.0\Utilities.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.sourcelink.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\refint\Web.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\appsettings.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Web.staticwebassets.endpoints.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Web.exe
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Web.deps.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Web.runtimeconfig.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Web.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Web.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Humanizer.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Npgsql.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Business.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Data.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Entity.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Utilities.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Business.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Data.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Entity.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\bin\Debug\net9.0\Utilities.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.csproj.AssemblyReference.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.AssemblyInfoInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.sourcelink.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\scopedcss\bundle\Web.styles.css
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.csproj.Up2Date
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\refint\Web.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Web\obj\Debug\net9.0\ref\Web.dll

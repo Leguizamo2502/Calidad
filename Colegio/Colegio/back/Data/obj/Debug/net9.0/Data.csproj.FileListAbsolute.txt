@@ -1,0 +1,144 @@
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\bin\Debug\net9.0\Data.deps.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\bin\Debug\net9.0\Data.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\bin\Debug\net9.0\Data.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\bin\Debug\net9.0\Entity.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\bin\Debug\net9.0\Entity.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\Data.sourcelink.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\Data.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\refint\Data.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\Data.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Data\obj\Debug\net9.0\ref\Data.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\bin\Debug\net9.0\Data.deps.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\bin\Debug\net9.0\Data.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\bin\Debug\net9.0\Data.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\bin\Debug\net9.0\Entity.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\bin\Debug\net9.0\Entity.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\Data.sourcelink.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\Data.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\refint\Data.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\Data.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Data\obj\Debug\net9.0\ref\Data.dll
+C:\AMD\Juego\CardCombatBackend\Data\bin\Debug\net9.0\Data.deps.json
+C:\AMD\Juego\CardCombatBackend\Data\bin\Debug\net9.0\Data.dll
+C:\AMD\Juego\CardCombatBackend\Data\bin\Debug\net9.0\Data.pdb
+C:\AMD\Juego\CardCombatBackend\Data\bin\Debug\net9.0\Entity.dll
+C:\AMD\Juego\CardCombatBackend\Data\bin\Debug\net9.0\Entity.pdb
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\Data.sourcelink.json
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\Data.dll
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\refint\Data.dll
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\Data.pdb
+C:\AMD\Juego\CardCombatBackend\Data\obj\Debug\net9.0\ref\Data.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\bin\Debug\net9.0\Data.deps.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\bin\Debug\net9.0\Data.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\bin\Debug\net9.0\Data.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\bin\Debug\net9.0\Entity.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\bin\Debug\net9.0\Entity.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\Data.sourcelink.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\Data.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\refint\Data.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\Data.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Data\obj\Debug\net9.0\ref\Data.dll
+E:\pc\escritorio\CardCombatBackend\Data\bin\Debug\net9.0\Data.deps.json
+E:\pc\escritorio\CardCombatBackend\Data\bin\Debug\net9.0\Data.dll
+E:\pc\escritorio\CardCombatBackend\Data\bin\Debug\net9.0\Data.pdb
+E:\pc\escritorio\CardCombatBackend\Data\bin\Debug\net9.0\Entity.dll
+E:\pc\escritorio\CardCombatBackend\Data\bin\Debug\net9.0\Entity.pdb
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\Data.sourcelink.json
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\Data.dll
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\refint\Data.dll
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\Data.pdb
+E:\pc\escritorio\CardCombatBackend\Data\obj\Debug\net9.0\ref\Data.dll
+C:\proyectos cSharp\colegio\Data\bin\Debug\net9.0\Data.deps.json
+C:\proyectos cSharp\colegio\Data\bin\Debug\net9.0\Data.dll
+C:\proyectos cSharp\colegio\Data\bin\Debug\net9.0\Data.pdb
+C:\proyectos cSharp\colegio\Data\bin\Debug\net9.0\Entity.dll
+C:\proyectos cSharp\colegio\Data\bin\Debug\net9.0\Entity.pdb
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\Data.sourcelink.json
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\Data.dll
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\refint\Data.dll
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\Data.pdb
+C:\proyectos cSharp\colegio\Data\obj\Debug\net9.0\ref\Data.dll
+C:\Users\braya\Downloads\colegio\colegio\Data\bin\Debug\net9.0\Data.deps.json
+C:\Users\braya\Downloads\colegio\colegio\Data\bin\Debug\net9.0\Data.dll
+C:\Users\braya\Downloads\colegio\colegio\Data\bin\Debug\net9.0\Data.pdb
+C:\Users\braya\Downloads\colegio\colegio\Data\bin\Debug\net9.0\Entity.dll
+C:\Users\braya\Downloads\colegio\colegio\Data\bin\Debug\net9.0\Entity.pdb
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\Data.sourcelink.json
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\Data.dll
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\refint\Data.dll
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\Data.pdb
+C:\Users\braya\Downloads\colegio\colegio\Data\obj\Debug\net9.0\ref\Data.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\bin\Debug\net9.0\Data.deps.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\bin\Debug\net9.0\Data.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\bin\Debug\net9.0\Data.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\bin\Debug\net9.0\Entity.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\bin\Debug\net9.0\Entity.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\Data.sourcelink.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\Data.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\refint\Data.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\Data.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Data\obj\Debug\net9.0\ref\Data.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\bin\Debug\net9.0\Data.deps.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\bin\Debug\net9.0\Data.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\bin\Debug\net9.0\Data.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\bin\Debug\net9.0\Entity.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\bin\Debug\net9.0\Entity.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\Data.sourcelink.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\Data.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\refint\Data.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\Data.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Data\obj\Debug\net9.0\ref\Data.dll

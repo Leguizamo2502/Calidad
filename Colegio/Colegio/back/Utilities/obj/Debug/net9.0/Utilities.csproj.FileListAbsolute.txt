@@ -1,0 +1,144 @@
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\bin\Debug\net9.0\Entity.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\bin\Debug\net9.0\Entity.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\Utilities.csproj.Up2Date
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Utilities\obj\Debug\net9.0\ref\Utilities.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\bin\Debug\net9.0\Entity.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\bin\Debug\net9.0\Entity.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.Up2Date
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Utilities\obj\Debug\net9.0\ref\Utilities.dll
+C:\AMD\Juego\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\AMD\Juego\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\AMD\Juego\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\AMD\Juego\CardCombatBackend\Utilities\bin\Debug\net9.0\Entity.dll
+C:\AMD\Juego\CardCombatBackend\Utilities\bin\Debug\net9.0\Entity.pdb
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.Up2Date
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\AMD\Juego\CardCombatBackend\Utilities\obj\Debug\net9.0\ref\Utilities.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\bin\Debug\net9.0\Entity.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\bin\Debug\net9.0\Entity.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.Up2Date
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Utilities\obj\Debug\net9.0\ref\Utilities.dll
+E:\pc\escritorio\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.deps.json
+E:\pc\escritorio\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.dll
+E:\pc\escritorio\CardCombatBackend\Utilities\bin\Debug\net9.0\Utilities.pdb
+E:\pc\escritorio\CardCombatBackend\Utilities\bin\Debug\net9.0\Entity.dll
+E:\pc\escritorio\CardCombatBackend\Utilities\bin\Debug\net9.0\Entity.pdb
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.csproj.Up2Date
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.dll
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\Utilities.pdb
+E:\pc\escritorio\CardCombatBackend\Utilities\obj\Debug\net9.0\ref\Utilities.dll
+C:\proyectos cSharp\colegio\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\proyectos cSharp\colegio\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\proyectos cSharp\colegio\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\proyectos cSharp\colegio\Utilities\bin\Debug\net9.0\Entity.dll
+C:\proyectos cSharp\colegio\Utilities\bin\Debug\net9.0\Entity.pdb
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.Up2Date
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\proyectos cSharp\colegio\Utilities\obj\Debug\net9.0\ref\Utilities.dll
+C:\Users\braya\Downloads\colegio\colegio\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\Users\braya\Downloads\colegio\colegio\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\Users\braya\Downloads\colegio\colegio\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\Users\braya\Downloads\colegio\colegio\Utilities\bin\Debug\net9.0\Entity.dll
+C:\Users\braya\Downloads\colegio\colegio\Utilities\bin\Debug\net9.0\Entity.pdb
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.Up2Date
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\Users\braya\Downloads\colegio\colegio\Utilities\obj\Debug\net9.0\ref\Utilities.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\bin\Debug\net9.0\Entity.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\bin\Debug\net9.0\Entity.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.Up2Date
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Utilities\obj\Debug\net9.0\ref\Utilities.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\bin\Debug\net9.0\Entity.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\bin\Debug\net9.0\Entity.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\Utilities.csproj.Up2Date
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Utilities\obj\Debug\net9.0\ref\Utilities.dll

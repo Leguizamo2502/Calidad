@@ -1,0 +1,180 @@
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Business.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Data.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Entity.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Utilities.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Data.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Entity.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\bin\Debug\net9.0\Utilities.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\Business.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\Aprendiz\Desktop\proyectoCartas\Backend\CardCombat\Business\obj\Debug\net9.0\ref\Business.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\bin\Debug\net9.0\Business.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\bin\Debug\net9.0\Data.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\bin\Debug\net9.0\Entity.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\bin\Debug\net9.0\Utilities.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\bin\Debug\net9.0\Data.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\bin\Debug\net9.0\Entity.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\bin\Debug\net9.0\Utilities.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\Business.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\olpie\OneDrive\Escritorio\trabajos\CardCombat\CardCombatBackend\Business\obj\Debug\net9.0\ref\Business.dll
+C:\AMD\Juego\CardCombatBackend\Business\bin\Debug\net9.0\Business.deps.json
+C:\AMD\Juego\CardCombatBackend\Business\bin\Debug\net9.0\Business.dll
+C:\AMD\Juego\CardCombatBackend\Business\bin\Debug\net9.0\Business.pdb
+C:\AMD\Juego\CardCombatBackend\Business\bin\Debug\net9.0\Data.dll
+C:\AMD\Juego\CardCombatBackend\Business\bin\Debug\net9.0\Entity.dll
+C:\AMD\Juego\CardCombatBackend\Business\bin\Debug\net9.0\Utilities.dll
+C:\AMD\Juego\CardCombatBackend\Business\bin\Debug\net9.0\Data.pdb
+C:\AMD\Juego\CardCombatBackend\Business\bin\Debug\net9.0\Entity.pdb
+C:\AMD\Juego\CardCombatBackend\Business\bin\Debug\net9.0\Utilities.pdb
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\Business.dll
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\refint\Business.dll
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\Business.pdb
+C:\AMD\Juego\CardCombatBackend\Business\obj\Debug\net9.0\ref\Business.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\bin\Debug\net9.0\Business.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\bin\Debug\net9.0\Data.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\bin\Debug\net9.0\Entity.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\bin\Debug\net9.0\Utilities.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\bin\Debug\net9.0\Data.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\bin\Debug\net9.0\Entity.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\bin\Debug\net9.0\Utilities.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\Business.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\Juan Manuel\Desktop\CardCombatBackend\Business\obj\Debug\net9.0\ref\Business.dll
+E:\pc\escritorio\CardCombatBackend\Business\bin\Debug\net9.0\Business.deps.json
+E:\pc\escritorio\CardCombatBackend\Business\bin\Debug\net9.0\Business.dll
+E:\pc\escritorio\CardCombatBackend\Business\bin\Debug\net9.0\Business.pdb
+E:\pc\escritorio\CardCombatBackend\Business\bin\Debug\net9.0\Data.dll
+E:\pc\escritorio\CardCombatBackend\Business\bin\Debug\net9.0\Entity.dll
+E:\pc\escritorio\CardCombatBackend\Business\bin\Debug\net9.0\Utilities.dll
+E:\pc\escritorio\CardCombatBackend\Business\bin\Debug\net9.0\Data.pdb
+E:\pc\escritorio\CardCombatBackend\Business\bin\Debug\net9.0\Entity.pdb
+E:\pc\escritorio\CardCombatBackend\Business\bin\Debug\net9.0\Utilities.pdb
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\Business.sourcelink.json
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\Business.dll
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\refint\Business.dll
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\Business.pdb
+E:\pc\escritorio\CardCombatBackend\Business\obj\Debug\net9.0\ref\Business.dll
+C:\proyectos cSharp\colegio\Business\bin\Debug\net9.0\Business.deps.json
+C:\proyectos cSharp\colegio\Business\bin\Debug\net9.0\Business.dll
+C:\proyectos cSharp\colegio\Business\bin\Debug\net9.0\Business.pdb
+C:\proyectos cSharp\colegio\Business\bin\Debug\net9.0\Data.dll
+C:\proyectos cSharp\colegio\Business\bin\Debug\net9.0\Entity.dll
+C:\proyectos cSharp\colegio\Business\bin\Debug\net9.0\Utilities.dll
+C:\proyectos cSharp\colegio\Business\bin\Debug\net9.0\Data.pdb
+C:\proyectos cSharp\colegio\Business\bin\Debug\net9.0\Entity.pdb
+C:\proyectos cSharp\colegio\Business\bin\Debug\net9.0\Utilities.pdb
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\Business.dll
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\refint\Business.dll
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\Business.pdb
+C:\proyectos cSharp\colegio\Business\obj\Debug\net9.0\ref\Business.dll
+C:\Users\braya\Downloads\colegio\colegio\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\braya\Downloads\colegio\colegio\Business\bin\Debug\net9.0\Business.dll
+C:\Users\braya\Downloads\colegio\colegio\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\braya\Downloads\colegio\colegio\Business\bin\Debug\net9.0\Data.dll
+C:\Users\braya\Downloads\colegio\colegio\Business\bin\Debug\net9.0\Entity.dll
+C:\Users\braya\Downloads\colegio\colegio\Business\bin\Debug\net9.0\Utilities.dll
+C:\Users\braya\Downloads\colegio\colegio\Business\bin\Debug\net9.0\Data.pdb
+C:\Users\braya\Downloads\colegio\colegio\Business\bin\Debug\net9.0\Entity.pdb
+C:\Users\braya\Downloads\colegio\colegio\Business\bin\Debug\net9.0\Utilities.pdb
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\Business.dll
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\braya\Downloads\colegio\colegio\Business\obj\Debug\net9.0\ref\Business.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\bin\Debug\net9.0\Business.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\bin\Debug\net9.0\Data.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\bin\Debug\net9.0\Entity.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\bin\Debug\net9.0\Utilities.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\bin\Debug\net9.0\Data.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\bin\Debug\net9.0\Entity.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\bin\Debug\net9.0\Utilities.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\Business.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\gutie\Downloads\colegio\colegio\colegio\Business\obj\Debug\net9.0\ref\Business.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\bin\Debug\net9.0\Business.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\bin\Debug\net9.0\Data.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\bin\Debug\net9.0\Entity.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\bin\Debug\net9.0\Utilities.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\bin\Debug\net9.0\Data.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\bin\Debug\net9.0\Entity.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\bin\Debug\net9.0\Utilities.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\Business.sourcelink.json
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\Business.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\varga\Downloads\sistema de colegio\sistema de colegio\back-colegio\Business\obj\Debug\net9.0\ref\Business.dll

@@ -1,0 +1,705 @@
+[
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Asignaturas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Asignatura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Asignaturas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Asignatura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.AsignaturasDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Asignaturas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Asignatura",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.AsignaturasDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Asignaturas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Asignatura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Asignaturas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.AsignaturasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Asignatura/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Colegio, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Colegio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Colegio, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Colegio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.ColegioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Colegio, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Colegio",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.ColegioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Colegio, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Colegio/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Colegio, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.ColegioDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Colegio/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.CursoAsignatura, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaQueryDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/CursoAsignatura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.CursoAsignatura, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaQueryDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/CursoAsignatura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.CursoAsignaturaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.CursoAsignatura, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaQueryDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/CursoAsignatura",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.CursoAsignaturaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.CursoAsignatura, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaQueryDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/CursoAsignatura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.CursoAsignatura, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaQueryDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursoAsignaturaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/CursoAsignatura/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Cursos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Cursos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Cursos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Cursos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.CursosDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Cursos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Cursos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.CursosDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Cursos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Cursos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Cursos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.CursosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Cursos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Card.DistribucionController",
+    "Method": "Distribuir",
+    "RelativePath": "api/Distribucion/{colegioId}/distribuir/{totalEstudiantes}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "colegioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "totalEstudiantes",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Estudiantes, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Estudiantes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Estudiantes, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Estudiantes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.EstudiantesDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Estudiantes, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Estudiantes",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.EstudiantesDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Estudiantes, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Estudiantes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Estudiantes, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.EstudiantesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Estudiantes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Controllers.LoginController",
+    "Method": "Validar",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "Entity.Dtos.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Matricula, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Matricula",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Matricula, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Matricula",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.MatriculaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Matricula, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Matricula",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.MatriculaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Matricula, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Matricula/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Matricula, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.MatriculaDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Matricula/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Notas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Notas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Notas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Notas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.NotasDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Notas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Notas",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.NotasDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Notas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Notas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Notas, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.NotasDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Notas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Periodos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Periodo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Periodos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Periodo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.PeriodosDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Periodos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Periodo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.PeriodosDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Periodos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Periodo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Periodos, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.PeriodosDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Periodo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Salones, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Salones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Salones, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Salones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.SalonesDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Salones, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Salones",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entity.Dtos.Colegio.SalonesDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Salones, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Salones/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.Implements.Abstract.GenericController\u00603[[Entity.Model.Colegio.Salones, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Entity.Dtos.Colegio.SalonesDto, Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Salones/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
